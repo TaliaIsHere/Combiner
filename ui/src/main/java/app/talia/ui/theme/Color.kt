@@ -1,4 +1,4 @@
-package app.talia.combiner.ui.theme
+package app.talia.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

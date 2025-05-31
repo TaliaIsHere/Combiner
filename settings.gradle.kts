@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Combiner"
 include(":app")
+include(":ui")
